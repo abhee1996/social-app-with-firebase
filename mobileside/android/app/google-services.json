@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264265061734",
+    "project_id": "rn-social-app-fc671",
+    "storage_bucket": "rn-social-app-fc671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264265061734:android:7a9981911e81726dfb64a7",
+        "android_client_info": {
+          "package_name": "com.mobileside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264265061734-bfd880nbu2uffma5caagrm4gu89ph68b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZKA4w5XDcSz1BwEcLTTrwg99HCojD9jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264265061734-bfd880nbu2uffma5caagrm4gu89ph68b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

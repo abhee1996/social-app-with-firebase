@@ -1,0 +1,41 @@
+{
+  "category":[
+    {
+      "id": 1,
+      "name": "Electronics",
+      "icon": "mobile-phone-2198770_1280.png",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "Gardening",
+      "icon": "mobile-phone-2198770_1280.png",
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "name": "Sports",
+      "icon": "mobile-phone-2198770_1280.png",
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "name": "Furniture",
+      "icon": "mobile-phone-2198770_1280.png",
+      "color": "grey"
+    },
+    {
+      "id": 5,
+      "name": "Vaheciels",
+      "icon": "mobile-phone-2198770_1280.png",
+      "color": "white"
+    },
+    {
+      "id": 6,
+      "name": "Games",
+      "icon": "mobile-phone-2198770_1280.png",
+      "color": "Purple"
+    }
+  
+  ]
+}
